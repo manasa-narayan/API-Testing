@@ -1,0 +1,36 @@
+2020-06-04 12:28:53,842 INFO  [log] I should be able to fetch the report at the End
+2020-06-04 12:28:54,688 INFO  [log] The total number of rows which contains data are2
+2020-06-04 12:28:54,688 INFO  [log] The total number of columns which contains data are3
+2020-06-04 12:28:54,854 INFO  [log] I should be able to fetch the report at the End
+2020-06-04 12:28:58,811 INFO  [log] 2197
+2020-06-04 12:29:05,510 INFO  [log] Customer name is  Manasa
+2020-06-04 12:29:05,512 INFO  [log] Display Customer by ID
+2020-06-04 12:29:07,406 INFO  [log] /SoapUIResults
+2020-06-04 12:29:07,704 INFO  [log] Status:  FINISHED, time taken for testCase is: 12166 ms
+2020-06-04 12:29:07,709 INFO  [log] number of test steps executed are: 8
+2020-06-04 12:29:07,737 INFO  [log] /SoapUIResults
+2020-06-04 12:29:07,761 INFO  [log] I should be able to fetch the report at the End
+2020-06-04 12:29:08,579 INFO  [log] 2198
+2020-06-04 12:29:12,982 INFO  [log] Customer name is  Manasa
+2020-06-04 12:29:12,984 INFO  [log] Display Customer by ID
+2020-06-04 12:29:14,709 INFO  [log] /SoapUIResults
+2020-06-04 12:29:14,824 INFO  [log] I should be able to fetch the report at the End
+2020-06-04 12:29:16,724 INFO  [log] 2199
+2020-06-04 12:29:16,726 INFO  [log] 1692
+2020-06-04 12:29:19,558 INFO  [log] /SoapUIResults
+2020-06-04 12:29:19,667 INFO  [log] I should be able to fetch the report at the End
+2020-06-04 12:29:19,807 INFO  [log] 661
+2020-06-04 12:29:19,846 INFO  [log] Script starts here
+2020-06-04 12:29:21,339 INFO  [log] sku000123
+2020-06-04 12:29:25,208 INFO  [log] /SoapUIResults
+2020-06-04 12:29:25,292 INFO  [log] The Result is FINISHED
+2020-06-04 12:29:25,294 INFO  [log] Status: FINISHED,time taken for the testcase is: 5193 is
+2020-06-04 12:29:25,295 INFO  [log] number of test steps executed are : 6
+2020-06-04 12:29:25,296 INFO  [log] false
+2020-06-04 12:29:25,316 INFO  [log] /SoapUIResults
+2020-06-04 12:29:25,335 INFO  [log] Script starts here
+2020-06-04 12:29:26,299 INFO  [log] sku000123
+2020-06-04 12:29:29,677 INFO  [log] /SoapUIResults
+2020-06-04 12:29:29,791 INFO  [log]  Script starts here
+2020-06-04 12:29:30,888 INFO  [log] 832
+2020-06-04 12:29:48,492 INFO  [log] /SoapUIResults
